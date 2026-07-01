@@ -3,7 +3,7 @@
 A full-stack movie catalog with search, analytics, and time-series data, powered by [Redis 8](https://redis.io/open-source/) (Search, JSON, TimeSeries).
 
 Published article: [Redis 8 in Practice: Building a Full-Stack Movie Library with Search, JSON, Time Series, and Real API Workloads
-](https://dev.to/ykpraveen/redis-8-is-a-game-changer-i-built-a-full-stack-movie-library-to-prove-it-4ih0)
+](https://dev.to/ykpraveen/redis-8-in-practice-building-a-full-stack-movie-library-with-search-json-time-series-and-real-3ano)
 
 ## Tech Stack
 
